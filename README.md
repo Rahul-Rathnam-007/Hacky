@@ -1,2 +1,0 @@
-# Hacky
-# Movie Ticket Booking 
