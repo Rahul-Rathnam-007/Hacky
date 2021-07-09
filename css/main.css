@@ -453,3 +453,15 @@ h1{
 .loginbox a:hover{
   color:#ffc107;
 }
+
+.MC{
+  margin:7px;
+  border: 1px solid #ccc;
+  float: left;
+  width:390px;
+}
+
+.MC img{
+  width:100%;
+  height:auto;
+}
