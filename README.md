@@ -2,7 +2,19 @@
 -Movie booking Site-
 
 #Screenshots
-![Uploading image.png…](1)
+![Uploading image.png…](Home_1)
+![Uploading image.png…](Home_2)
+![Uploading image.png…](Home_3)
+![Uploading image.png…](Home_4)
+![Uploading image.png…](Home_5)
+![Uploading image.png…](Home_6)
+![Uploading image.png…](Home_7)
+![Uploading image.png…](Home_8)
+![Uploading image.png…](Home_9)
+![Uploading image.png…](Home_10)
+![Uploading image.png…](Home_11)
+![Uploading image.png…](Ticket_1)
+![image](https://user-images.githubusercontent.com/87139273/125122264-cd012f80-e112-11eb-9d92-c02657a53de4.png)
 
 
  # Hosted Url
