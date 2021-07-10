@@ -53,6 +53,7 @@
 -HTML-
 -CSS-
 -Javascript-
+-Github-
 
 #Local Setup
 -Install Atom text editor or Visual Studio Code-
